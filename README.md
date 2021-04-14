@@ -1,1 +1,1 @@
-[![Tests](https://github.com/alu0101209500/ejerciciosP7DSI/actions/workflows/tests.yml/badge.svg)](https://github.com/alu0101209500/ejerciciosP7DSI/actions/workflows/tests.yml)
+[![Tests](https://github.com/alu0101209500/ejerciciosP7DSI/actions/workflows/tests.yml/badge.svg)](https://github.com/alu0101209500/ejerciciosP7DSI/actions/workflows/tests.yml) [![Coverage Status](https://coveralls.io/repos/github/alu0101209500/ejerciciosP7DSI/badge.svg?branch=master)](https://coveralls.io/github/alu0101209500/ejerciciosP7DSI?branch=master)

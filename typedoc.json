@@ -1,5 +1,8 @@
 {
     "entryPoints":[
+        "./src/BubbleSort.ts",
+        "./src/intSortFunction.ts",
+        "./src/Sort.ts"
     ],
     "out": "./docs"
 }
